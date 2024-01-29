@@ -1,3 +1,13 @@
+# Docker 镜像名
+
+`xxnuo/bililive-go`
+
+https://hub.docker.com/r/xxnuo/bililive-go
+
+修复了抖音录制的问题
+
+下面是原 README
+
 # Bililive-go
 [![CI](https://github.com/hr3lxphr6j/bililive-go/actions/workflows/tests.yaml/badge.svg?branch=master)](https://github.com/hr3lxphr6j/bililive-go/actions/workflows/tests.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hr3lxphr6j/bililive-go)](https://goreportcard.com/report/github.com/hr3lxphr6j/bililive-go)
