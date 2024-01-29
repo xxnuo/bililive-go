@@ -4,9 +4,13 @@ Docker 镜像名
 
 `xxnuo/bililive-go`
 
-地址
+Docker 地址
 
 https://hub.docker.com/r/xxnuo/bililive-go
+
+下载预编译二进制文件
+
+https://github.com/xxnuo/bililive-go/releases
 
 下面是原 README
 
