@@ -1,10 +1,12 @@
-# Docker 镜像名
+自动编译修复了抖音录制的问题的版本
+
+Docker 镜像名
 
 `xxnuo/bililive-go`
 
-https://hub.docker.com/r/xxnuo/bililive-go
+地址
 
-修复了抖音录制的问题
+https://hub.docker.com/r/xxnuo/bililive-go
 
 下面是原 README
 
